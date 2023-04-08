@@ -13,15 +13,17 @@ Uploaded On: 08 April 2023 [Saturday]
 
 ***
 
-<video width="600" controls>
-  <source src="./screen-capture.mp4" type="video/mp4">
- </video>
+https://user-images.githubusercontent.com/84908224/230715590-89a3a6cf-31c5-4597-86de-4bf21698d7b3.mp4
 
 ***
 
 Here I shared about used technologies,frameworks and so on...
 
 <details>
+
+https://user-images.githubusercontent.com/84908224/230715410-9292cdd6-6d33-4910-a091-9567bd45b48e.mp4
+
+
     <summary> Technologies </summary>
 
 ***
