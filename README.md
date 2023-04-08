@@ -20,10 +20,6 @@ https://user-images.githubusercontent.com/84908224/230715590-89a3a6cf-31c5-4597-
 Here I shared about used technologies,frameworks and so on...
 
 <details>
-
-https://user-images.githubusercontent.com/84908224/230715410-9292cdd6-6d33-4910-a091-9567bd45b48e.mp4
-
-
     <summary> Technologies </summary>
 
 ***
